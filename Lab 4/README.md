@@ -13,7 +13,7 @@ $ sudo pip3 install -U requests
 Skipped on Windows
 
 ### 3. Start Django project "stevens"
-![stevens](stevens.png)
+![stevens](site.png)
 
 ## Lab 4C
 ### 1. Install Flask and Run server via hello_world.py
